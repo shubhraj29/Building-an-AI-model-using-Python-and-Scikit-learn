@@ -6,7 +6,7 @@ _Note: Data used in the projects is for demonstration purposes only and taken fr
 
 The project is about how to create and run a classification model.
 
-The project covers the following steps:
+## The project covers the following steps:
  - Data exploration
  - Data preprocessing
  - Splitting data for training and testing
@@ -15,3 +15,11 @@ The project covers the following steps:
  - Training the model
  - Running predictions on the model
  - Evaluating and visualizing model performance
+
+## The following libraries will be used
+
+ - pandas for managing the data.
+ - numpy for mathematical operations.
+ - sklearn for machine learning and machine-learning-pipeline related functions.
+ - seaborn for visualizing the data.
+ - matplotlib for additional plotting tools.
