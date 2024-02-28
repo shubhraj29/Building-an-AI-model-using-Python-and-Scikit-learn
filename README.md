@@ -4,7 +4,7 @@ This repository is completed by me for academic, and self learning purposes.
 
 _Note: Data used in the projects is for demonstration purposes only and taken from cognitiveclass.ai_
 
-The project is about how to create and run a classification model.
+The project is about how to create and run a classification model. The data set contains information about customers of an online trading platform and the data set will be used to classify whether a given customer's probability of churn will be high, medium, or low. 
 
 ## The project covers the following steps:
  - Data exploration
