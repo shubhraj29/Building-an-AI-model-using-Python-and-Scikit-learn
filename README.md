@@ -16,7 +16,7 @@ The project is about how to create and run a classification model.
  - Running predictions on the model
  - Evaluating and visualizing model performance
 
-## The following libraries will be used
+## The following libraries will be used:
 
  - pandas for managing the data.
  - numpy for mathematical operations.
